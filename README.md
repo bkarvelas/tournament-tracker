@@ -1,2 +1,6 @@
-# turnament-tracker
-CSharp Tutorial
+# Tournament Tracker
+## CSharp Tutorial
+### Consepts
+* WPF
+* SQL Server
+
