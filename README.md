@@ -1,6 +1,5 @@
 # Tournament Tracker
 ## CSharp Tutorial
 ### Consepts
-* WPF
+* Windows Forms
 * SQL Server
-
